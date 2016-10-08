@@ -211,3 +211,5 @@ C:\Users\Pavlo\Documents\Interio\Interio\App\Interio\obj\x86\Debug\BridgeInterfa
 C:\Users\Pavlo\Documents\Interio\Interio\App\Interio\obj\x86\Debug\UnityEngineDelegates.pri.xml
 C:\Users\Pavlo\Documents\Interio\Interio\App\Interio\obj\x86\Debug\UnityEngineProxy.pri.xml
 C:\Users\Pavlo\Documents\Interio\Interio\App\Interio\obj\x86\Debug\ProjectArchitectures.txt
+C:\Users\Pavlo\Documents\Interio\Interio\App\Interio\bin\x86\Debug\UnityEngine.Analytics.dll
+C:\Users\Pavlo\Documents\Interio\Interio\App\Interio\bin\x86\Debug\UnityEngine.Analytics.pdb

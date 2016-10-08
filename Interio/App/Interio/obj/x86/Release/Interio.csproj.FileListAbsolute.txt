@@ -211,3 +211,5 @@ C:\Users\Pavlo\Documents\Interio\Interio\App\Interio\bin\x86\Release\UnityEngine
 C:\Users\Pavlo\Documents\Interio\Interio\App\Interio\bin\x86\Release\UnityEngine.VR.dll
 C:\Users\Pavlo\Documents\Interio\Interio\App\Interio\bin\x86\Release\UnityEngine.HoloLens.pdb
 C:\Users\Pavlo\Documents\Interio\Interio\App\Interio\bin\x86\Release\UnityEngine.VR.pdb
+C:\Users\Pavlo\Documents\Interio\Interio\App\Interio\bin\x86\Release\UnityEngine.Analytics.dll
+C:\Users\Pavlo\Documents\Interio\Interio\App\Interio\bin\x86\Release\UnityEngine.Analytics.pdb

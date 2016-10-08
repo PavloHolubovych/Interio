@@ -436,6 +436,9 @@
     <AppxPackagedFile Include="C:\Users\Pavlo\Documents\Interio\Interio\App\Interio\UnityEngine.dll">
       <PackagePath>UnityEngine.dll</PackagePath>
     </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Pavlo\Documents\Interio\Interio\App\Interio\UnityEngine.Analytics.dll">
+      <PackagePath>UnityEngine.Analytics.dll</PackagePath>
+    </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Pavlo\Documents\Interio\Interio\App\Interio\UnityEngine.UI.dll">
       <PackagePath>UnityEngine.UI.dll</PackagePath>
     </AppxPackagedFile>
