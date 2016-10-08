@@ -45,12 +45,7 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-     <Compile Include="Assets\ColorPicker\CameraBgColor.cs" />
-     <Compile Include="Assets\ColorPicker\ColorPicker.cs" />
-     <Compile Include="Assets\ColorPicker\DemoGUI_ColorPickerDemo.cs" />
-     <Compile Include="Assets\ColorPicker\DrawGUIOrderColorPicker.cs" />
-     <Compile Include="Assets\ColorPicker\ObjectColor.cs" />
-     <Compile Include="Assets\ColorPicker\PSColor.cs" />
+     <Compile Include="Assets\Scripts\ColorPicker.cs" />
      <Compile Include="Assets\Scripts\Cursor.cs" />
      <Compile Include="Assets\Scripts\GazeGestureManager.cs" />
      <Compile Include="Assets\Scripts\SphereCommands.cs" />
@@ -61,7 +56,6 @@
      <Compile Include="Assets\Support\Spatial Mapping\SpatialMapping.cs" />
      <Compile Include="Assets\Support\Underworld\UnderworldReset.cs" />
      <Compile Include="Assets\Support\Underworld\UnderworldSound.cs" />
-     <None Include="Assets\ColorPicker\license.txt" />
      <None Include="Assets\Materials\Wireframe.shader" />
  <Reference Include="UnityEngine.UI">
  <HintPath>C:/Program Files/Unity HoloLens 5.4.0f3-HTP/Editor/Data/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll</HintPath>

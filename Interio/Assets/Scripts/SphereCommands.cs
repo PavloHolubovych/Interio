@@ -5,7 +5,10 @@ public class SphereCommands : MonoBehaviour
     // Called by GazeGestureManager when the user performs a Select gesture
     void OnSelect()
     {
-        var a = this.gameObject.GetComponent<Renderer>();
-        a.material.color = Random.ColorHSV();
+        var textureToFill = this.gameObject.GetComponent<Renderer>();
+        if (textureToFill)
+        {
+            textureToFill.material.color = ColorPicker.PickedColor;
+        }
     }
 }
