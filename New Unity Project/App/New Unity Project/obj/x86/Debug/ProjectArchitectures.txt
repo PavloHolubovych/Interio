@@ -1,0 +1,4 @@
+C:\Users\Pavlo\Documents\Interio\New Unity Project\App\New Unity Project\New Unity Project.csproj;x86
+C:\Users\Pavlo\Documents\Interio\New Unity Project\UWP\Assembly-CSharp\Assembly-CSharp.csproj;x86
+C:\Users\Pavlo\Documents\Interio\New Unity Project\UWP\Assembly-CSharp-firstpass\Assembly-CSharp-firstpass.csproj;x86
+C:\Users\Pavlo\Documents\Interio\New Unity Project\UWP\Assembly-CSharp-firstpass\Assembly-CSharp-firstpass.csproj;x86
