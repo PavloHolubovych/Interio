@@ -1,0 +1,4 @@
+C:\Users\Pavlo\Documents\Interio\Interio\App1\Interio\Interio.csproj;arm
+C:\Users\Pavlo\Documents\Interio\Interio\UWP\Assembly-CSharp\Assembly-CSharp.csproj;arm
+C:\Users\Pavlo\Documents\Interio\Interio\UWP\Assembly-CSharp-firstpass\Assembly-CSharp-firstpass.csproj;arm
+C:\Users\Pavlo\Documents\Interio\Interio\UWP\Assembly-CSharp-firstpass\Assembly-CSharp-firstpass.csproj;arm

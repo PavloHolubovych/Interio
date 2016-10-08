@@ -5,11 +5,11 @@ public class CameraBgColor : MonoBehaviour {
 	
 	void OnSetColor(Color color)
 	{
-		camera.backgroundColor = color;
+		GetComponent<Camera>().backgroundColor = color;
 	}
 
 	void OnGetColor(ColorPicker picker)
 	{
-		picker.NotifyColor(camera.backgroundColor);
+		picker.NotifyColor(GetComponent<Camera>().backgroundColor);
 	}
 }

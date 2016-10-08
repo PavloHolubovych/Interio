@@ -5,11 +5,11 @@ public class PSColor : MonoBehaviour {
 
 	void OnSetColor(Color color)
 	{
-		particleSystem.renderer.material.SetColor("_TintColor", color);
+		GetComponent<ParticleSystem>().GetComponent<Renderer>().material.SetColor("_TintColor", color);
 	}
 	
 	void OnGetColor(ColorPicker picker)
 	{
-		picker.NotifyColor(particleSystem.renderer.material.GetColor("_TintColor"));
+		picker.NotifyColor(GetComponent<ParticleSystem>().GetComponent<Renderer>().material.GetColor("_TintColor"));
 	}
 }
